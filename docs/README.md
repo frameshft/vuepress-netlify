@@ -2,7 +2,7 @@
 home: true 
 heroImage: /images/vuejsradar.png
 actionText: Go to documentation →
-actionLink: /about/
+actionLink: /about/navigation.html
 features:
 - title: Markdown Editing 
   details: Netlify's CMS provides a flexible Markdown Editor 
