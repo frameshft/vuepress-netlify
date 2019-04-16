@@ -1,7 +1,7 @@
 ---
 title: Navigation
 ---
-Global Installation
+Global Installation test
 If you just want to play around with VuePress, you can install it globally:
 
 ## install globally
