@@ -1,5 +1,5 @@
 ---
-title: My First Netlify Post
+title: Navigation
 ---
 Global Installation
 If you just want to play around with VuePress, you can install it globally:
