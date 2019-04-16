@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: andreliem/vuepress-netlify-cms
+  repo: currentb2b/shipDOCS
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "docs/.vuepress/public/images"
-public_folder: "docs/.vuepress/dist/"
+public_folder: "images"
 collections:
   - name: "doc" # Used in routes, e.g., /admin/collections/blog
     label: "Doc" # Used in the UI
