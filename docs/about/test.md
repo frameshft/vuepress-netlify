@@ -1,7 +1,7 @@
 ---
 title: My Second Netlify Post
 ---
-![Test](/docs/.vuepress/dist/screen-shot-2019-04-14-at-5.22.50-pm.png)
+![](/docs/.vuepress/dist/images/screen-shot-2018-05-23-at-4.02.40-pm.png)
 
 Have a need for Bootstrap's brand resources? Great! We have only a few guidelines we follow, and in turn ask you to follow as well. These guidelines were inspired by MailChimp's [Brand Assets](https://mailchimp.com/about/brand-assets/).
 
