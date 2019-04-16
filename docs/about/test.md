@@ -7,17 +7,22 @@ Have a need for Bootstrap's brand resources? Great! We have only a few guideline
 
 Use either the Bootstrap mark (a capital **B**) or the standard logo (just **Bootstrap**). It should always appear in San Francisco Display Semibold. **Do not use the Twitter bird** in association with Bootstrap.
 
-
 ## Download mark
 
 Download the Bootstrap mark in one of three styles, each available as an SVG file. Right click, Save as.
-
 
 ## Name
 
 The project and framework should always be referred to as **Bootstrap**. No Twitter before it, no capital _s_, and no abbreviations except for one, a capital **B**.
 
-
 ## Colors
 
-Our docs and branding use a handful of primary colors to differentiate what *is* Bootstrap from what *is in* Bootstrap. In other words, if it's purple, it's representative of Bootstrap.
+Our docs and branding use a handful of primary colors to differentiate what _is_ Bootstrap from what _is in_ Bootstrap. In other words, if it's purple, it's representative of Bootstrap.
+
+> Download the Bootstrap mark in one of three styles, each available as an SVG file. Right click, Save as.
+
+Our docs and branding use a handful of primary colors to differentiate what _is_ Bootstrap from what _is in_ Bootstrap. In other words, if it's purple, it's representative of Bootstrap.
+
+![](/images/iomage.jpg)
+
+`Our docs and branding use a handful of primary colors to differentiate what `_`is`_` Bootstrap from what `_`is in`_` Bootstrap. In other words, if it's purple, it's representative of Bootstrap.`
