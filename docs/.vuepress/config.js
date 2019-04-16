@@ -21,6 +21,7 @@ module.exports = {
         children: [
           '/about/',
           '/about/test',
+          '/about/navigation',
         ]
       },
       {
