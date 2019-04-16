@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: 'frameshft/vuepress-netlify'
   branch: master # Branch to update (optional; defaults to master)
   collections:
     - name: "about" # Used in routes, e.g., /admin/collections/blog
