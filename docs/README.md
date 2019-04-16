@@ -1,8 +1,8 @@
 ---
 home: true 
 heroImage: /images/vuejsradar.png
-actionText: Try it Out →
-actionLink: /welcome
+actionText: Go to documentation →
+actionLink: /parent-1/
 features:
 - title: Markdown Editing 
   details: Netlify's CMS provides a flexible Markdown Editor 
@@ -10,6 +10,6 @@ features:
   details: Easily upload images to your repo with an uploader 
 - title: Powerful Deployments
   details: Leverage the power of netlify and VuePress to deploy statically 
-footer: MIT Licensed | Copyright © 2018-present Andre Liem (www.vuejsradar.com) 
-title: FRONT PAGE
+footer: Copyright © 2019 currentb2b
+title: shipDocs home page
 ---

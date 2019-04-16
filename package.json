@@ -5,5 +5,9 @@
   },
   "devDependencies": {
     "vuepress": "^0.9.0"
+  },
+  "dependencies": {
+    "directory-tree": "^2.2.1",
+    "glob": "^7.1.3"
   }
 }
